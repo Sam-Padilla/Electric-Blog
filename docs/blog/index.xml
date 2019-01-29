@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Electric Blog | Noticias Eléctricas</title>
-    <link>http://example.org/blog/</link>
+    <link>https://sam-padilla.github.io/electric-blog/blog/</link>
     <description>Recent content in Blogs on Electric Blog | Noticias Eléctricas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-gt</language>
     <lastBuildDate>Mon, 28 Jan 2019 16:52:41 -0600</lastBuildDate>
     
-	<atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sam-padilla.github.io/electric-blog/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Primero</title>
-      <link>http://example.org/blog/primero/</link>
+      <link>https://sam-padilla.github.io/electric-blog/blog/primero/</link>
       <pubDate>Mon, 28 Jan 2019 16:52:41 -0600</pubDate>
       
-      <guid>http://example.org/blog/primero/</guid>
+      <guid>https://sam-padilla.github.io/electric-blog/blog/primero/</guid>
       <description>Mientras abrazaba el ocaso Un nepe gigante me murmuraba que moria de cariño y yo apenado le dije, agusagarolinama agusaguisisisisisosu agu sa guisi gusari gari gasi curi curi a mi me vale madre Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga asperiores nisi, repudiandae in labore sunt odit saepe amet officiis debitis cupiditate assumenda porro quae praesentium temporibus blanditiis nulla dolore recusandae nostrum. Quo inventore iste quam expedita facilis eius porro ab.</description>
     </item>
     

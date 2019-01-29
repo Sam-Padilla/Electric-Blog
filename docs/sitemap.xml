@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/blog/primero/</loc>
+    <loc>https://sam-padilla.github.io/electric-blog/blog/primero/</loc>
     <lastmod>2019-01-28T16:52:41-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/</loc>
-    <lastmod>2019-01-28T16:52:41-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
+    <loc>https://sam-padilla.github.io/electric-blog/blog/</loc>
     <lastmod>2019-01-28T16:52:41-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://sam-padilla.github.io/electric-blog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sam-padilla.github.io/electric-blog/</loc>
+    <lastmod>2019-01-28T16:52:41-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sam-padilla.github.io/electric-blog/tags/</loc>
     <priority>0</priority>
   </url>
   
