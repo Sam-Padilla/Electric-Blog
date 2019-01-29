@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://sam-padilla.github.io/electric-blog/"
 languageCode = "es-gt"
 title = "Electric Blog | Noticias Eléctricas"
 theme = "meghna-hugo"
