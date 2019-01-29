@@ -1,2 +1,2 @@
 # electric-blog
-Proof of Hugo
+Probando hugo
