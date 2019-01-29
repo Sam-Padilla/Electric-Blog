@@ -2,7 +2,8 @@ baseURL = "http://example.org/"
 languageCode = "es-gt"
 title = "Electric Blog | Noticias Eléctricas"
 theme = "meghna-hugo"
-themesdir = "themes"
+themesDir = "themes"
+publishDir = "docs"
 
 # Menu
 [menu]
